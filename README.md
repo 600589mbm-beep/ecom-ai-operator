@@ -7,6 +7,7 @@ Static HTML/CSS — no build step. Deploys to GitHub Pages.
 ## Pages
 - `index.html` — home / hero / overview
 - `skills.html` — the 5 skills in detail
+- `insights.html` — SEO content: ecommerce conversion benchmarks + the levers that move them
 - `pricing.html` — Starter $49 / Pro $97 / Club $19/mo
 - `faq.html` — common questions
 - `free.html` — lead magnet (free Listing Optimizer in exchange for email)
